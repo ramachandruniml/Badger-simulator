@@ -1,5 +1,3 @@
-# Badger-simulator
-UW-Madison version of the Oregon trail game 
 public class BadgerSimulator {
     // Player stats
     private String playerName;
@@ -58,3 +56,5 @@ public class BadgerSimulator {
     public int getSemester() { return semester; }
 }
 git add.
+git commit -m "Initial commit of BadgerSimulator class"
+git push origin gavin
